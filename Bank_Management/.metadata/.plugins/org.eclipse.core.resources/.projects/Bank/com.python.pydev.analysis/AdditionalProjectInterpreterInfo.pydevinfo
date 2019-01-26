@@ -1,0 +1,71 @@
+-- VERSION_4
+-- START DISKCACHE_2
+E:\Bank_Management\.metadata\.plugins\org.eclipse.core.resources\.projects\Bank\com.python.pydev.analysis\v2_indexcache
+Database_Tables|1511108204541834000|E:\Bank_Management\Bank\Database_Tables.py
+Bank_management|1511178000765930000|E:\Bank_Management\Bank\Bank_management.py
+-- END DISKCACHE
+-- START DICTIONARY
+14
+4=customer.id_gen
+11=customer.tranx_details
+2=Database_Tables
+5=Admin.add_customer
+12=Admin.update_password
+7=golden_cust.withdraw
+8=customer.deposit
+10=customer.enquiry
+3=Admin
+14=golden_cust
+6=customer.withdraw
+13=Admin.login
+1=Bank_management
+9=customer
+-- END DICTIONARY
+-- START TREE 1
+13
+GC|1|GC!11@
+RC|1|RC!11@
+acc|1|acc_no!11@
+adm|2|admin_obj!11@Admin!9@
+aga|1|again!11@
+cho|1|choice!11@
+con|2|con!19@conn!11@
+cur|2|cur!11@cur!19@
+cus|2|cust_type!11@customer!9@
+gol|1|golden_cust!9@
+pas|1|password!11@
+tem|1|temp!11@
+use|1|username!11@
+-- END TREE
+-- START TREE 2
+29
+RC|1|RC!3&11@
+acc|3|acc_no!4&11@acc_no!5&11@acc_type!5&11@
+add|2|address!5&11@add_customer!3&10@
+amo|3|amount!6&11@amount!7&11@amount_dep!5&11@
+bal|3|bal!6&11@bal!8&11@bal!7&11@
+con|1|confirm!5&11@
+cus|2|cust_type!6&11@cust_type!5&11@
+dep|2|deposit!9&10@deposit_amount!8&11@
+det|2|details!10&11@details!11&11@
+e_m|1|e_mail!5&11@
+enq|1|enquiry!9&10@
+fin|1|final_bal!8&11@
+fla|1|flag!5&11@
+id_|1|id_gen!9&10@
+ini|1|init_bal!5&11@
+log|1|login!3&10@
+nam|1|name!5&11@
+new|1|new_pass!12&11@
+now|3|now!8&11@now!7&11@now!5&11@
+pas|1|password!13&11@
+pho|1|phone_no!5&11@
+rem|1|remove_customer!3&10@
+res|2|result_bal!6&11@result_bal!7&11@
+tem|4|temp!6&11@temp!8&11@temp!7&11@temp!13&11@
+tra|1|tranx_details!9&10@
+typ|4|type!6&11@type!8&11@type!7&11@type!5&11@
+upd|1|update_password!3&10@
+use|1|username!13&11@
+wit|2|withdraw!9&10@withdraw!14&10@
+-- END TREE
